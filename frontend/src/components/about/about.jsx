@@ -146,7 +146,7 @@ class About extends React.Component {
               <h1 className="team-names">Kira</h1>
               <h2 className="team-roles team-roles-kira">Frontend</h2>
               <p className="team-descriptions">
-                Hello! I'm a Boston-based engineer looking for a frontend or full-stack role in NYC, Boston, Philly, or the Bay Area.
+                Hey hey! I'm a Boston-based engineer looking for meaningful role in NYC, Boston, Philly, the Bay Area, and elsewhere.
                 <br/><br /> 
                 In addition to coding, I love dancing, hiking, creative writing, and food!
               </p>
